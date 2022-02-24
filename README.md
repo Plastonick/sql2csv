@@ -2,6 +2,13 @@
 
 A simple command line tool to convert SQL database output to CSV.
 
+### Installation
+
+First [install Rust](https://www.rust-lang.org/tools/install).
+
+Clone this repository and build the package using `cargo build --release`, move/execute the binary as required.
+
+
 ### Help
 
 ```bash
